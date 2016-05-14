@@ -1,2 +1,2 @@
 # OscalTestBruno
-This is Bruno and Chris runnign a workshop.
+This is Bruno and Chris running a workshop.
