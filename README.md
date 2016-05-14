@@ -1,2 +1,2 @@
 # OscalTestBruno
-Testing
+This is Bruno and Chris running a workshop.
